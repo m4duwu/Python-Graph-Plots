@@ -1,4 +1,4 @@
-# Python-Graph-Plots
+# Python-Graph-Plotter
 
 This project utilizes several python libraries to display data on graphs and also geospatial plotting.
 
